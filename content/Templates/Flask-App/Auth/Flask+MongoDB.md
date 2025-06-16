@@ -14,7 +14,7 @@ The **Flask + MongoDB Authentication System** is a streamlined authentication so
 - **MongoDB**: A flexible NoSQL database known for its scalability.
 
 ## Installation Steps
-To set up the Flask + MongoDB Authentication System with Dylon, follow these steps:
+To set up the Flask + MongoDB Authentication System with dylon, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -95,4 +95,4 @@ The application employs MongoDB for user data storage, specifically within a `us
 
 ---
 
-This template was developed using [Dylon](https://github.com/Abhishek-Mallick/Dylon).
+This template was developed using [dylon](https://github.com/Abhishek-Mallick/dylon).

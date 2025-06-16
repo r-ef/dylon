@@ -8,7 +8,7 @@ navigation: false
 announcement:
   title: 'Release v2.6.3'
   icon: 'noto:party-popper'
-  to: https://www.npmjs.com/package/Dylon
+  to: https://www.npmjs.com/package/dylon
 actions:
   - name: Get Started
     to: /getting-started
@@ -19,7 +19,7 @@ actions:
 ---
 
 #title
-Dylon : Effortless Code Scaffolding.
+dylon : Effortless Code Scaffolding.
 
 #description
 Rapid project setup made easy.
@@ -29,25 +29,25 @@ Pre-built templates. One-command deployment. Open Source.
 
 ::code-group
   ```bash [npm]
-  npm i -g Dylon
+  npm i -g dylon
   ```
 
   ```bash [pnpm]
-  pnpm i Dylon
+  pnpm i dylon
   ```
 
   ```bash [yarn]
-  yarn add Dylon
+  yarn add dylon
   ```
 ::
 
 ::code-group
   ```bash [Terminal]
   # get list of available options
-Dylon --help
+dylon --help
 
 # scaffold a new project
-Dylon init
+dylon init
   ``` 
 ::
 
@@ -58,7 +58,7 @@ Dylon init
   ---
   title: Prebuilt Templates for Every Need.
   icon: i-heroicons-cube
-  to: https://Dylonn.xyz/templates
+  to: https://dylonn.xyz/templates
   target: _blank
   ---
   Explore our extensive library of **50+ project templates** designed for various applications. Select and download your preferred template in just two commands!
@@ -88,7 +88,7 @@ Dylon init
   ---
   title: Comprehensive Support and Resources.
   icon: i-heroicons-document-text
-  to: https://Dylonn.xyz/docs
+  to: https://dylonn.xyz/docs
   target: _blank
   ---
   Access detailed documentation and community support to guide you through setup, customization, and troubleshooting for your projects.

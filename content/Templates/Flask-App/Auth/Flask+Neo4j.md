@@ -14,7 +14,7 @@ The **Flask + Neo4j Authentication System** is a simple yet effective authentica
 - **python-dotenv**: Loads environment variables from a `.env` file.
 
 ## Installation Steps
-To set up the Flask + Neo4j Authentication System with Dylon, follow these steps:
+To set up the Flask + Neo4j Authentication System with dylon, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -81,4 +81,4 @@ The application uses Neo4j for storing user information. Neo4j is a graph databa
 
 ---
 
-This template was developed using [Dylon](https://github.com/Abhishek-Mallick/Dylon).
+This template was developed using [dylon](https://github.com/Abhishek-Mallick/dylon).

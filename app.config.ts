@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'Dylon',
-      description: 'Dylon is your all-in-one solution for rapid code scaffolding and streamlined development. With a wide range of pre-built templates, this npm package simplifies the process of setting up boilerplate code for any project and offers single-command deployment.',
+      name: 'dylon',
+      description: 'dylon is your all-in-one solution for rapid code scaffolding and streamlined development. With a wide range of pre-built templates, this npm package simplifies the process of setting up boilerplate code for any project and offers single-command deployment.',
     },
     theme: {
       customizable: true,
@@ -11,7 +11,7 @@ export default defineAppConfig({
       defaultTheme: 'light'
     },
     header: {
-      title: 'Dylon',
+      title: 'dylon',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -34,13 +34,13 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024 Dylon',
+      credits: 'Copyright © 2024 dylon',
       colorMode: false,
       links: [{
         'icon': 'lucide:twitter',
         'to': 'https://x.com/dylon?s=21&t=G30nY2JbqymN-LTjnlxlug',
         'target': '_blank',
-        'aria-label': 'Dylon on X'
+        'aria-label': 'dylon on X'
       }]
     },
     toc: {

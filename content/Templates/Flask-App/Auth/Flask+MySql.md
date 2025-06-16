@@ -14,7 +14,7 @@ The **Flask + MySQL Authentication System** is a simple yet effective authentica
 - **MySQL**: A popular relational database management system.
 
 ## Installation Steps
-To set up the Flask + MySQL Authentication System with Dylon, follow these steps:
+To set up the Flask + MySQL Authentication System with dylon, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -102,4 +102,4 @@ To set up the Flask + MySQL Authentication System with Dylon, follow these steps
   
   ---
   
-  This template was developed using [Dylon](https://github.com/Abhishek-Mallick/Dylon).
+  This template was developed using [dylon](https://github.com/Abhishek-Mallick/dylon).

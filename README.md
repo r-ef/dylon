@@ -1,6 +1,6 @@
-# Dylon - Documentation
+# dylon - Documentation
 
-> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `Dylon`.
+> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `dylon`.
 
 
 ## Quick Start
@@ -9,10 +9,10 @@ To get started quickly, you can clone the repository and install the dependencie
 
 ```bash [Terminal]
 # Clone the repository
-git clone https://github.com/Abhishek-Mallick/Dylon.git
+git clone https://github.com/Abhishek-Mallick/dylon.git
 
 # Navigate to the project directory
-cd Dylon/website
+cd dylon/website
 
 # Install dependencies using npm
 npm install
@@ -41,5 +41,5 @@ npm run preview
 
 ## Contributing
 
-To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/Dylon/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
+To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/dylon/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
 

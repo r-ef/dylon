@@ -14,7 +14,7 @@ The **Flask + SQLite Authentication System** is a simple yet effective authentic
 - **SQLite**: A lightweight, disk-based database that doesn’t require a separate server process.
 
 ## Installation Steps
-To set up the Flask + SQLite Authentication System with Dylon, follow these steps:
+To set up the Flask + SQLite Authentication System with dylon, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -77,4 +77,4 @@ The application uses SQLite for storing user information. The database file is n
 
 ---
 
-This template was developed using [Dylon](https://github.com/Abhishek-Mallick/Dylon).
+This template was developed using [dylon](https://github.com/Abhishek-Mallick/dylon).

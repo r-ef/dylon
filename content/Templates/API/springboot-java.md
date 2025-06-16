@@ -10,11 +10,11 @@ The **Spring Boot API Template** is designed to help you quickly set up a RESTfu
 ## Getting Started
 
 ### Installation Steps
-To utilize the Spring Boot Framework Template with Dylon, follow these steps:
+To utilize the Spring Boot Framework Template with dylon, follow these steps:
 
 1. **Initialize the project**:
    ```bash
-   Dylon init
+   dylon init
    ```
 2. **Select the Apollo GraphQL Server Template**:
 Select the following from the menu:
@@ -50,4 +50,4 @@ curl -X GET http://localhost:8080/api/users
 ## Explore More
 For additional information and examples, refer to the [Spring Boot documentation](https://spring.io/projects/spring-boot/)
 
-**Note**: For more examples, refer to the [docs](https://github.com/Abhishek-Mallick/Dylon/tree/main/template/API/Hasura-GraphQL/docs.md)
+**Note**: For more examples, refer to the [docs](https://github.com/Abhishek-Mallick/dylon/tree/main/template/API/Hasura-GraphQL/docs.md)
