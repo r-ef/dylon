@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'dylon',
-      description: 'dylon is your all-in-one solution for rapid code scaffolding and streamlined development. With a wide range of pre-built templates, this npm package simplifies the process of setting up boilerplate code for any project and offers single-command deployment.',
+      name: 'yri',
+      description: 'yri is your all-in-one solution for rapid code scaffolding and streamlined development. With a wide range of pre-built templates, this npm package simplifies the process of setting up boilerplate code for any project and offers single-command deployment.',
     },
     theme: {
       customizable: true,
@@ -11,7 +11,7 @@ export default defineAppConfig({
       defaultTheme: 'light'
     },
     header: {
-      title: 'dylon',
+      title: 'yri',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -21,7 +21,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:twitter',
-        to: 'https://x.com/dylon?s=21&t=G30nY2JbqymN-LTjnlxlug',
+        to: 'https://x.com/yri?s=21&t=G30nY2JbqymN-LTjnlxlug',
         target: '_blank',
       }],
     },
@@ -34,13 +34,13 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024 dylon',
+      credits: 'Copyright © 2024 yri',
       colorMode: false,
       links: [{
         'icon': 'lucide:twitter',
-        'to': 'https://x.com/dylon?s=21&t=G30nY2JbqymN-LTjnlxlug',
+        'to': 'https://x.com/yri?s=21&t=G30nY2JbqymN-LTjnlxlug',
         'target': '_blank',
-        'aria-label': 'dylon on X'
+        'aria-label': 'yri on X'
       }]
     },
     toc: {
@@ -49,7 +49,7 @@ export default defineAppConfig({
       links: [{
         title: 'Follow on X',
         icon: 'lucide:twitter',
-        to: 'https://x.com/dylon?s=21&t=G30nY2JbqymN-LTjnlxlug',
+        to: 'https://x.com/yri?s=21&t=G30nY2JbqymN-LTjnlxlug',
         target: '_blank',
       }],
     },

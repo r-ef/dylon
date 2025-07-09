@@ -1,6 +1,6 @@
-# dylon - Documentation
+# yri - Documentation
 
-> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `dylon`.
+> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `yri`.
 
 
 ## Quick Start
@@ -9,10 +9,10 @@ To get started quickly, you can clone the repository and install the dependencie
 
 ```bash [Terminal]
 # Clone the repository
-git clone https://github.com/Abhishek-Mallick/dylon.git
+git clone https://github.com/Abhishek-Mallick/yri.git
 
 # Navigate to the project directory
-cd dylon/website
+cd yri/website
 
 # Install dependencies using npm
 npm install
@@ -41,5 +41,5 @@ npm run preview
 
 ## Contributing
 
-To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/dylon/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
+To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/yri/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
 

@@ -98,4 +98,4 @@ The application uses MongoDB for storing user information. The `users` collectio
 
 ---
 
-Made using [dylon](https://github.com/Abhishek-Mallick/dylon)
+Made using [yri](https://github.com/Abhishek-Mallick/yri)

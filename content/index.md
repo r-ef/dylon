@@ -8,18 +8,18 @@ navigation: false
 announcement:
   title: 'Release v2.6.3'
   icon: 'noto:party-popper'
-  to: https://www.npmjs.com/package/dylon
+  to: https://www.npmjs.com/package/yri
 actions:
   - name: Get Started
     to: /getting-started
   - name: Follow on X
     variant: outline
-    to: https://x.com/dylon?s=21&t=G30nY2JbqymN-LTjnlxlug
+    to: https://x.com/yri?s=21&t=G30nY2JbqymN-LTjnlxlug
     leftIcon: 'lucide:twitter'
 ---
 
 #title
-dylon : Effortless Code Scaffolding.
+yri : Effortless Code Scaffolding.
 
 #description
 Rapid project setup made easy.
@@ -29,25 +29,25 @@ Pre-built templates. One-command deployment. Open Source.
 
 ::code-group
   ```bash [npm]
-  npm i -g dylon
+  npm i -g yri
   ```
 
   ```bash [pnpm]
-  pnpm i dylon
+  pnpm i yri
   ```
 
   ```bash [yarn]
-  yarn add dylon
+  yarn add yri
   ```
 ::
 
 ::code-group
   ```bash [Terminal]
   # get list of available options
-dylon --help
+yri --help
 
 # scaffold a new project
-dylon init
+yri init
   ``` 
 ::
 
@@ -58,7 +58,7 @@ dylon init
   ---
   title: Prebuilt Templates for Every Need.
   icon: i-heroicons-cube
-  to: https://dylonn.xyz/templates
+  to: https://yrin.xyz/templates
   target: _blank
   ---
   Explore our extensive library of **50+ project templates** designed for various applications. Select and download your preferred template in just two commands!
@@ -88,7 +88,7 @@ dylon init
   ---
   title: Comprehensive Support and Resources.
   icon: i-heroicons-document-text
-  to: https://dylonn.xyz/docs
+  to: https://yrin.xyz/docs
   target: _blank
   ---
   Access detailed documentation and community support to guide you through setup, customization, and troubleshooting for your projects.
