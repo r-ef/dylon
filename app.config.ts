@@ -15,8 +15,8 @@ export default defineAppConfig({
       showTitle: true,
       darkModeToggle: true,
       logo: {
-        light: 'https://cdn.discordapp.com/attachments/1378026994159325336/1384281255050219700/1mUpn82j_400x400.png?ex=6851dbe1&is=68508a61&hm=8deacad9ac120ef873104557e4159aa4f128c8473ddbdf8efe28029176a26d2b&',
-        dark: 'https://cdn.discordapp.com/attachments/1378026994159325336/1384281255050219700/1mUpn82j_400x400.png?ex=6851dbe1&is=68508a61&hm=8deacad9ac120ef873104557e4159aa4f128c8473ddbdf8efe28029176a26d2b&',
+        light: 'https://cdn.discordapp.com/attachments/1196020542235476010/1392897564902424656/photo_2025-07-10_18-56-28.jpg?ex=68713472&is=686fe2f2&hm=f14c6e10e7b016d41401bf979a7e02e45c4ce54ea3b331ed460a80ab1ef5f45a&',
+        dark: 'https://cdn.discordapp.com/attachments/1196020542235476010/1392897564902424656/photo_2025-07-10_18-56-28.jpg?ex=68713472&is=686fe2f2&hm=f14c6e10e7b016d41401bf979a7e02e45c4ce54ea3b331ed460a80ab1ef5f45a&',
       },
       nav: [],
       links: [{
