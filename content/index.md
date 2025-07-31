@@ -14,7 +14,7 @@ actions:
     to: /getting-started
   - name: Follow on X
     variant: outline
-    to: x.com/tryserenity
+    to: https://x.com/tryserenity
     leftIcon: 'lucide:twitter'
 ---
 

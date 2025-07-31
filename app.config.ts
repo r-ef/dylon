@@ -21,7 +21,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:twitter',
-        to: 'x.com/tryserenity',
+        to: 'https://x.com/tryserenity',
         target: '_blank',
       }],
     },
@@ -38,7 +38,7 @@ export default defineAppConfig({
       colorMode: false,
       links: [{
         'icon': 'lucide:twitter',
-        'to': 'x.com/tryserenity',
+        'to': 'https://x.com/tryserenity',
         'target': '_blank',
         'aria-label': 'serenity on X'
       }]
@@ -49,7 +49,7 @@ export default defineAppConfig({
       links: [{
         title: 'Follow on X',
         icon: 'lucide:twitter',
-        to: 'x.com/tryserenity',
+        to: 'https://x.com/tryserenity',
         target: '_blank',
       }],
     },
