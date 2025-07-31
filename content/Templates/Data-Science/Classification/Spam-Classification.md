@@ -90,4 +90,4 @@ This notebook allows you to experiment with the code and datasets without settin
 
 ## Contact
 
-Visit codebase [here](https://github.com/Abhishek-Mallick/yri/tree/main/template/Data-Science/Classification/Spam%20Email%20Classification)
+Visit codebase [here](https://github.com/Abhishek-Mallick/serenity/tree/main/template/Data-Science/Classification/Spam%20Email%20Classification)

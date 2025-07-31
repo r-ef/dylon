@@ -14,7 +14,7 @@ The **Flask + SQLite Authentication System** is a simple yet effective authentic
 - **SQLite**: A lightweight, disk-based database that doesn’t require a separate server process.
 
 ## Installation Steps
-To set up the Flask + SQLite Authentication System with yri, follow these steps:
+To set up the Flask + SQLite Authentication System with serenity, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -77,4 +77,4 @@ The application uses SQLite for storing user information. The database file is n
 
 ---
 
-This template was developed using [yri](https://github.com/Abhishek-Mallick/yri).
+This template was developed using [serenity](https://github.com/Abhishek-Mallick/serenity).

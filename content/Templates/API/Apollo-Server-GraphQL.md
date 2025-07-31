@@ -16,11 +16,11 @@ The **Apollo GraphQL Server Template** is a starter template designed to simplif
 - **UUID**: Library for generating unique identifiers.
 
 ## Installation Steps
-To utilize the Apollo GraphQL Server Template with yri, follow these steps:
+To utilize the Apollo GraphQL Server Template with serenity, follow these steps:
 
 1. **Initialize the project**:
    ```bash
-   yri init
+   serenity init
    ```
 2. **Select the Apollo GraphQL Server Template**:
 Select the following from the menu:
@@ -137,4 +137,4 @@ query {
 
 ![Querying-the-Schema-Directives](https://github.com/user-attachments/assets/02a6cc78-5f29-4fd7-8acc-d2b4760decb0)
 
-Visit codebase [here](https://github.com/Abhishek-Mallick/yri/tree/main/template/API/Apollo-Server-GraphQL)
+Visit codebase [here](https://github.com/Abhishek-Mallick/serenity/tree/main/template/API/Apollo-Server-GraphQL)

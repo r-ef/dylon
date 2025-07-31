@@ -19,11 +19,11 @@ The **Hasura GraphQL Server Template** is a starter kit for the development of G
 - **GraphQL**: A query language for APIs and a runtime for fulfilling those queries.
 
 ## Installation Steps
-To utilize the Apollo GraphQL Server Template with yri, follow these steps:
+To utilize the Apollo GraphQL Server Template with serenity, follow these steps:
 
 1. **Initialize the project**:
    ```bash
-   yri init
+   serenity init
    ```
 2. **Select the Apollo GraphQL Server Template**:
 Select the following from the menu:
@@ -148,7 +148,7 @@ query getAuthorById($author_id: uuid!) {
 
 Visit the GraphQL API Explorer at `http://localhost:8080/console/api-explorer` to try out additional queries and mutations.
 
-**Note**: For more examples, refer to the [docs](https://github.com/Abhishek-Mallick/yri/tree/main/template/API/Hasura-GraphQL/docs.md)
+**Note**: For more examples, refer to the [docs](https://github.com/Abhishek-Mallick/serenity/tree/main/template/API/Hasura-GraphQL/docs.md)
 
 
-Visit codebase [here](https://github.com/Abhishek-Mallick/yri/tree/main/template/API/Hasura-GraphQL)
+Visit codebase [here](https://github.com/Abhishek-Mallick/serenity/tree/main/template/API/Hasura-GraphQL)

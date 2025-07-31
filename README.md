@@ -1,6 +1,6 @@
-# yri - Documentation
+# serenity - Documentation
 
-> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `yri`.
+> This website is powered by [Nuxt](https://nuxt.com/), using a Nuxt Starter template to provide comprehensive documentation for `serenity`.
 
 
 ## Quick Start
@@ -9,10 +9,10 @@ To get started quickly, you can clone the repository and install the dependencie
 
 ```bash [Terminal]
 # Clone the repository
-git clone https://github.com/Abhishek-Mallick/yri.git
+git clone https://github.com/Abhishek-Mallick/serenity.git
 
 # Navigate to the project directory
-cd yri/website
+cd serenity/website
 
 # Install dependencies using npm
 npm install
@@ -41,5 +41,5 @@ npm run preview
 
 ## Contributing
 
-To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/yri/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
+To contribute to this documentation website, please check out the [Contributing to Docs](https://github.com/Abhishek-Mallick/serenity/blob/main/CONTRIBUTING.md#contributing-to-docs) section.
 

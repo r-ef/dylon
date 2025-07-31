@@ -98,4 +98,4 @@ The application uses MongoDB for storing user information. The `users` collectio
 
 ---
 
-Made using [yri](https://github.com/Abhishek-Mallick/yri)
+Made using [serenity](https://github.com/Abhishek-Mallick/serenity)

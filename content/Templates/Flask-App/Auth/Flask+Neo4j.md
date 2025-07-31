@@ -14,7 +14,7 @@ The **Flask + Neo4j Authentication System** is a simple yet effective authentica
 - **python-dotenv**: Loads environment variables from a `.env` file.
 
 ## Installation Steps
-To set up the Flask + Neo4j Authentication System with yri, follow these steps:
+To set up the Flask + Neo4j Authentication System with serenity, follow these steps:
 
 1. **Create a virtual environment and activate it**:
    ```bash
@@ -81,4 +81,4 @@ The application uses Neo4j for storing user information. Neo4j is a graph databa
 
 ---
 
-This template was developed using [yri](https://github.com/Abhishek-Mallick/yri).
+This template was developed using [serenity](https://github.com/Abhishek-Mallick/serenity).

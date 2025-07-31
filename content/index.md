@@ -8,18 +8,18 @@ navigation: false
 announcement:
   title: 'Release v2.6.3'
   icon: 'noto:party-popper'
-  to: https://www.npmjs.com/package/yri
+  to: https://www.npmjs.com/package/serenity
 actions:
   - name: Get Started
     to: /getting-started
   - name: Follow on X
     variant: outline
-    to: https://x.com/yri?s=21&t=G30nY2JbqymN-LTjnlxlug
+    to: x.com/tryserenity
     leftIcon: 'lucide:twitter'
 ---
 
 #title
-yri : Effortless Code Scaffolding.
+serenity : Effortless Code Scaffolding.
 
 #description
 Rapid project setup made easy.
@@ -29,25 +29,25 @@ Pre-built templates. One-command deployment. Open Source.
 
 ::code-group
   ```bash [npm]
-  npm i -g yri
+  npm i -g serenity
   ```
 
   ```bash [pnpm]
-  pnpm i yri
+  pnpm i serenity
   ```
 
   ```bash [yarn]
-  yarn add yri
+  yarn add serenity
   ```
 ::
 
 ::code-group
   ```bash [Terminal]
   # get list of available options
-yri --help
+serenity --help
 
 # scaffold a new project
-yri init
+serenity init
   ``` 
 ::
 
@@ -58,7 +58,7 @@ yri init
   ---
   title: Prebuilt Templates for Every Need.
   icon: i-heroicons-cube
-  to: https://yrin.xyz/templates
+  to: https://serenityn.xyz/templates
   target: _blank
   ---
   Explore our extensive library of **50+ project templates** designed for various applications. Select and download your preferred template in just two commands!
@@ -88,7 +88,7 @@ yri init
   ---
   title: Comprehensive Support and Resources.
   icon: i-heroicons-document-text
-  to: https://yrin.xyz/docs
+  to: https://serenityn.xyz/docs
   target: _blank
   ---
   Access detailed documentation and community support to guide you through setup, customization, and troubleshooting for your projects.
